@@ -41,16 +41,16 @@ Diploma in ICT (Application Development)
 
 ---
 
- ### Opportunity Connect 
-Co-Founder & Software Developer
-Developed a live web application (oppco.co.za) that connects
-students and graduates with bursaries they are eligible for. The
-platform features intelligent matching functionality and is expanding
-to include an AI-powered auto-apply system to streamline
-applications. Currently serving nearly 500 registered users.
-Responsible for designing the architecture, developing, and testing
-the intelligent matching algorithm that forms the core of the OppCo
+#### Opportunity Connect (OppCo)
+**Co-Founder & Software Developer**  
+*2025 – Present*
 
+- Developed and deployed a live web application: https://oppco.co.za  
+- Built a platform that connects students and graduates with bursaries they are eligible for  
+- Designed and implemented an intelligent matching algorithm to recommend opportunities to users  
+- Contributed to system architecture, backend development, and testing  
+- Currently serving nearly 500 registered users  
+- Working on an AI-powered auto-apply feature to streamline application processes  
 ## 👨‍💻 Experience
 Backend Developer 
 - Designed APIs
@@ -58,6 +58,37 @@ Backend Developer
 - Worked in Agile team environment
 
 ---
+
+### 🌐 Web Applications (Angular)
+
+#### 🔹 Masinge IT Solutions
+- Live Website: https://masingeitsolutions.co.za  
+- Developed a professional business website using Angular  
+- Focused on responsive design and modern UI/UX  
+- Showcases IT services and company information  
+
+---
+
+#### 🔹 Thabazimbi Country Lodge
+- Live Website: https://www.thabazimbicountrylodge.co.za/home  
+- Built a hospitality website for a lodge business  
+- Implemented user-friendly navigation and booking-focused layout  
+- Optimized for both desktop and mobile users  
+
+---
+
+#### 🔹 GenSize
+- Live Website: https://gensize.netlify.app  
+- Developed a dynamic web application using Angular  
+- Focused on performance, responsiveness, and clean UI design  
+
+---
+
+#### 🔹 Stallion Towing
+- Live Website: https://stalliontowing.co.za  
+- Created a service-based website for a towing company  
+- Designed for accessibility and quick user interaction  
+- Highlights services, contact details, and business presence  
 
 ## 🎯 Career Goals
 To become a professional backend engineer in enterprise systems.
