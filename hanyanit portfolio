@@ -1,120 +1,142 @@
-# Hanyani Masinge
+# 👋 Hi, I'm Hanyani Masinge
 
-## 📧 Contact Information
-- Email: 222693452@mycput.ac.za
-- Phone: 0839659906
-- Location: Cape Town, South Africa
-- GitHub: https:github.com/hanyanit
+🚀 **Backend Developer | Java & Spring Boot | Future Enterprise Engineer**
 
 ---
 
-## 💼 Professional Summary
-Aspiring backend developer with strong Java and Spring Boot skills. Passionate about building scalable applications and solving real-world problems.
+## 🌐 Portfolio Overview
+
+I am an aspiring backend engineer passionate about building scalable, secure, and high-performance applications. I specialize in Java and Spring Boot, with experience in developing real-world systems and working in Agile environments.
+
+---
+
+## 📬 Contact
+
+* 📧 Email: [222693452@mycput.ac.za](mailto:222693452@mycput.ac.za)
+* 📱 Phone: 0839659906
+* 📍 Location: Cape Town, South Africa
+* 💻 GitHub: [https://github.com/hanyanit](https://github.com/hanyanit)
+
+---
+
+## 🧠 Technical Skills
+
+### 🚀 Backend
+
+* Java
+* Spring Boot
+* REST API Development
+* JPA / Hibernate
+
+### 🤖 Data & Machine Learning
+
+* Python
+* NumPy, Pandas (Data Processing)
+* Scikit-learn (Basics)
+* Data Cleaning & Preprocessing
+* Basic Model Building & Evaluation
+
+### 🎨 Frontend
+
+* Angular
+* HTML, CSS
+
+### 🗄️ Database
+
+* SQL (PostgreSQL, Derby)
+
+### ⚙️ Tools & Practices
+
+* Git & GitHub
+* Agile / Scrum
+* Maven
 
 ---
 
 ## 🎓 Education
-**Cape Peninsula University of Technology (CPUT)**  
-Diploma in ICT (Application Development)  
+
+**Cape Peninsula University of Technology (CPUT)**
+Diploma in ICT (Application Development)
 2022 – Present
 
 ---
 
-## 🛠️ Technical Skills
-- Java
--python
-- Spring Boot
-- Angular  
-- Git & GitHub
-- SQL / Derby Database
-- HTML, CSS
-- Agile Development
+## 💼 Experience
+
+### Backend Developer
+
+* Designed and developed RESTful APIs
+* Implemented business logic using Java & Spring Boot
+* Collaborated in Agile team environments
+* Tested and debugged backend systems
 
 ---
 
-## 📂 Projects
+## 📂  Projects
 
 ### 🔹 Student Average Calculator
-- Java application that calculates student marks
-- Built using OOP principles and GUI (Swing)
 
+**Tech:** Java, Swing, OOP
+
+* Desktop application for calculating student averages
+* Implemented clean OOP architecture
+* Built GUI using Java Swing
 
 ---
 
- ### Opportunity Connect 
-Co-Founder & Software Developer
-Developed a live web application (oppco.co.za) that connects
-students and graduates with bursaries they are eligible for. The
-platform features intelligent matching functionality and is expanding
-to include an AI-powered auto-apply system to streamline
-applications. Currently serving nearly 500 registered users.
-Responsible for designing the architecture, developing, and testing
-the intelligent matching algorithm that forms the core of the OppCo
+### 🔹 Opportunity Connect (OppCo)
 
-## 👨‍💻 Experience
-Backend Developer 
-- Designed APIs
-- Implemented business logic
-- Worked in Agile team environment
+**Role:** Co-Founder & Software Developer
+**Live Site:** [https://oppco.co.za](https://oppco.co.za)
+
+* Built a live platform connecting students with bursaries
+* Developed intelligent matching algorithm
+* Scaling towards AI-powered auto-apply system
+* Serving ~500 active users
+
+---
+
+## 🎥 Mock Interview
+
+[![Watch Mock Interview](https://img.youtube.com/vi/b1PRAe_33ak/0.jpg)](https://www.youtube.com/watch?v=b1PRAe_33ak)
+
+---
+
+## 🧩 Reflection 
+
+### 📌 Markdown Portfolio
+
+**Situation:** Needed to build a professional developer portfolio
+**Task:** Learn and apply Markdown effectively
+**Action:** Researched syntax and structured content clearly
+**Result:** Created a clean, developer-friendly portfolio
+
+---
+
+### 🎤 Mock Interview
+
+**Situation:** Needed to prepare for technical interviews
+**Task:** Simulate real interview environment
+**Action:** Practiced answering technical & behavioral questions
+**Result:** Improved confidence and communication skills
 
 ---
 
 ## 🎯 Career Goals
-To become a professional backend engineer in enterprise systems.
+
+To become a highly skilled backend engineer specializing in enterprise systems, contributing to scalable and impactful software solutions.
+
 
 ---
 
-## 🎥 Mock Interview Video
-Watch here: https://youtube.com/shorts/b1PRAe_33ak
----
+## ⚡ What I'm Currently Learning
 
-## 🧠 Reflection on Markdown (STAR Method)
-
-### Situation
-I needed to create a professional portfolio using Markdown.
-
-### Task
-To learn Markdown and present my CV clearly.
-
-### Action
-I researched Markdown syntax and applied it in GitHub README.
-
-### Result
-I can now create structured and readable documents for developers.
+* Microservices Architecture
+* Cloud Deployment (AWS basics)
+* Machine Learning Fundamentals (Model Optimization, Feature Engineering)
 
 ---
 
-## 🎤 Reflection on Mock Interview (STAR Method)
+## 🤝 Let's Connect
 
-### Situation
-I recorded a mock interview.
-
-### Task
-To simulate a real interview environment.
-
-### Action
-Answered common technical and behavioral questions.
-
-### Result
-Improved confidence and identified areas to improve.
-
----
-
-## 🌐 GitHub Pages Link
-(Will be added after deployment)
-
----
-
-## 🚀 Reflection on GitHub Pages (STAR Method)
-
-### Situation
-I needed to publish my portfolio online.
-
-### Task
-Deploy using GitHub Pages.
-
-### Action
-Configured repository settings and enabled Pages.
-
-### Result
-I was able to create a live portfolio website.
+If you're looking for a passionate backend developer or collaborator, feel free to reach out!
