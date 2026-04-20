@@ -1,94 +1,142 @@
-# Hanyani Masinge
+# 👋 Hi, I'm Hanyani Masinge
 
-## 📧 Contact Information
-- Email: 222693452@mycput.ac.za
-- Phone: 0839659906
-- Location: Cape Town, South Africa
-- GitHub: https:github.com/hanyanit
+🚀 **Backend Developer | Java & Spring Boot | Future Enterprise Engineer**
 
 ---
 
-## 💼 Professional Summary
-Aspiring backend developer with strong Java and Spring Boot skills. Passionate about building scalable applications and solving real-world problems.
+## 🌐 Portfolio Overview
+
+I am an aspiring backend engineer passionate about building scalable, secure, and high-performance applications. I specialize in Java and Spring Boot, with experience in developing real-world systems and working in Agile environments.
+
+---
+
+## 📬 Contact
+
+* 📧 Email: [222693452@mycput.ac.za](mailto:222693452@mycput.ac.za)
+* 📱 Phone: 0839659906
+* 📍 Location: Cape Town, South Africa
+* 💻 GitHub: [https://github.com/hanyanit](https://github.com/hanyanit)
+
+---
+
+## 🧠 Technical Skills
+
+### 🚀 Backend
+
+* Java
+* Spring Boot
+* REST API Development
+* JPA / Hibernate
+
+### 🤖 Data & Machine Learning
+
+* Python
+* NumPy, Pandas (Data Processing)
+* Scikit-learn (Basics)
+* Data Cleaning & Preprocessing
+* Basic Model Building & Evaluation
+
+### 🎨 Frontend
+
+* Angular
+* HTML, CSS
+
+### 🗄️ Database
+
+* SQL (PostgreSQL, Derby)
+
+### ⚙️ Tools & Practices
+
+* Git & GitHub
+* Agile / Scrum
+* Maven
 
 ---
 
 ## 🎓 Education
-**Cape Peninsula University of Technology (CPUT)**  
-Diploma in ICT (Application Development)  
+
+**Cape Peninsula University of Technology (CPUT)**
+Diploma in ICT (Application Development)
 2022 – Present
 
 ---
 
-## 🛠️ Technical Skills
-- Java
--python
-- Spring Boot
-- Angular  
-- Git & GitHub
-- SQL / Derby Database
-- HTML, CSS
-- Agile Development
+## 💼 Experience
+
+### Backend Developer
+
+* Designed and developed RESTful APIs
+* Implemented business logic using Java & Spring Boot
+* Collaborated in Agile team environments
+* Tested and debugged backend systems
 
 ---
 
-## 📂 Projects
+## 📂  Projects
 
 ### 🔹 Student Average Calculator
-- Java application that calculates student marks
-- Built using OOP principles and GUI (Swing)
 
+**Tech:** Java, Swing, OOP
 
----
-
-#### Opportunity Connect (OppCo)
-**Co-Founder & Software Developer**  
-*2025 – Present*
-
-- Developed and deployed a live web application: https://oppco.co.za  
-- Built a platform that connects students and graduates with bursaries they are eligible for  
-- Designed and implemented an intelligent matching algorithm to recommend opportunities to users  
-- Contributed to system architecture, backend development, and testing  
-- Currently serving nearly 500 registered users  
-- Working on an AI-powered auto-apply feature to streamline application processes  
-## 👨‍💻 Experience
-Backend Developer 
-- Designed APIs
-- Implemented business logic
-- Worked in Agile team environment
+* Desktop application for calculating student averages
+* Implemented clean OOP architecture
+* Built GUI using Java Swing
 
 ---
 
-### 🌐 Web Applications (Angular)
+### 🔹 Opportunity Connect (OppCo)
 
-#### 🔹 Masinge IT Solutions
-- Live Website: https://masingeitsolutions.co.za  
-- Developed a professional business website using Angular  
-- Focused on responsive design and modern UI/UX  
-- Showcases IT services and company information  
+**Role:** Co-Founder & Software Developer
+**Live Site:** [https://oppco.co.za](https://oppco.co.za)
 
----
-
-#### 🔹 Thabazimbi Country Lodge
-- Live Website: https://www.thabazimbicountrylodge.co.za/home  
-- Built a hospitality website for a lodge business  
-- Implemented user-friendly navigation and booking-focused layout  
-- Optimized for both desktop and mobile users  
+* Built a live platform connecting students with bursaries
+* Developed intelligent matching algorithm
+* Scaling towards AI-powered auto-apply system
+* Serving ~500 active users
 
 ---
 
-#### 🔹 GenSize
-- Live Website: https://gensize.netlify.app  
-- Developed a dynamic web application using Angular  
-- Focused on performance, responsiveness, and clean UI design  
+## 🎥 Mock Interview
+
+[![Watch Mock Interview](https://img.youtube.com/vi/b1PRAe_33ak/0.jpg)](https://www.youtube.com/watch?v=b1PRAe_33ak)
 
 ---
 
-#### 🔹 Stallion Towing
-- Live Website: https://stalliontowing.co.za  
-- Created a service-based website for a towing company  
-- Designed for accessibility and quick user interaction  
-- Highlights services, contact details, and business presence  
+## 🧩 Reflection 
+
+### 📌 Markdown Portfolio
+
+**Situation:** Needed to build a professional developer portfolio
+**Task:** Learn and apply Markdown effectively
+**Action:** Researched syntax and structured content clearly
+**Result:** Created a clean, developer-friendly portfolio
+
+---
+
+### 🎤 Mock Interview
+
+**Situation:** Needed to prepare for technical interviews
+**Task:** Simulate real interview environment
+**Action:** Practiced answering technical & behavioral questions
+**Result:** Improved confidence and communication skills
+
+---
 
 ## 🎯 Career Goals
-To become a professional backend engineer in enterprise systems.
+
+To become a highly skilled backend engineer specializing in enterprise systems, contributing to scalable and impactful software solutions.
+
+
+---
+
+## ⚡ What I'm Currently Learning
+
+* Microservices Architecture
+* Cloud Deployment (AWS basics)
+* Machine Learning Fundamentals (Model Optimization, Feature Engineering)
+
+---
+
+## 🤝 Let's Connect
+
+If you're looking for a passionate backend developer or collaborator, feel free to reach out!
